@@ -1,5 +1,6 @@
 # Cute Log
 Cute Log is a C++ Library that competes to be a unique logging tool.
+
 Version: 1
 # Installation
 
